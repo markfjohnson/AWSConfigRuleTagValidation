@@ -1,0 +1,13 @@
+{
+  "Version": "1.0",
+  "Parameters": {
+    "RuleName": "TagValidation",
+    "Description": "TagValidation",
+    "SourceRuntime": "python3.8",
+    "CodeKey": "TagValidation.zip",
+    "InputParameters": "{\"ExecutionRoleName\": \"mfjAWSConfigRole\"}",
+    "OptionalParameters": "{}",
+    "SourcePeriodic": "TwentyFour_Hours"
+  },
+  "Tags": "[]"
+}

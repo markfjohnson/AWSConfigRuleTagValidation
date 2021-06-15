@@ -1,0 +1,12 @@
+{
+  "Version": "1.0",
+  "Parameters": {
+    "RuleName": "SECURITYHUB_ENABLED",
+    "SourceRuntime": "python3.8",
+    "CodeKey": "SECURITYHUB_ENABLED.zip",
+    "InputParameters": "{\"ExecutionRoleName\": \"mfjAWSConfigRole\"}",
+    "OptionalParameters": "{}",
+    "SourcePeriodic": "TwentyFour_Hours"
+  },
+  "Tags": "[]"
+}
